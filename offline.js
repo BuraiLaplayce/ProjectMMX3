@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546477877,
+	"version": 1548027431,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,7 +59,6 @@
 		"images/pastboarder-sheet0.png",
 		"images/delboarder-sheet0.png",
 		"images/actualarmor-sheet0.png",
-		"images/actualarmor-sheet1.png",
 		"images/alertfilter-sheet0.png",
 		"images/alertbox-sheet0.png",
 		"images/saveloadstatustext.png",
@@ -76,6 +75,7 @@
 		"images/greenbackground.png",
 		"images/saveloadgameaux-sheet0.png",
 		"images/opt1-sheet0.png",
+		"images/input_letter.png",
 		"images/sfx_mus_backbar-sheet0.png",
 		"images/sfx_v_bar.png",
 		"images/sfx_v_bar2.png",
@@ -111,8 +111,6 @@
 		"images/toxicseahorsess-sheet0.png",
 		"images/toxicseahorsess-sheet1.png",
 		"images/drdopplerss-sheet0.png",
-		"images/sts_loadgame.png",
-		"images/sts_savegame.png",
 		"images/sts_subbarsavegame-sheet0.png",
 		"images/sts_subcursor-sheet0.png",
 		"images/tiledbackground.png",

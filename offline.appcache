@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1546477877
+#1548027431
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -58,7 +58,6 @@ images/copyboarder-sheet0.png
 images/pastboarder-sheet0.png
 images/delboarder-sheet0.png
 images/actualarmor-sheet0.png
-images/actualarmor-sheet1.png
 images/alertfilter-sheet0.png
 images/alertbox-sheet0.png
 images/saveloadstatustext.png
@@ -75,6 +74,7 @@ images/deleteicon-sheet1.png
 images/greenbackground.png
 images/saveloadgameaux-sheet0.png
 images/opt1-sheet0.png
+images/input_letter.png
 images/sfx_mus_backbar-sheet0.png
 images/sfx_v_bar.png
 images/sfx_v_bar2.png
@@ -110,8 +110,6 @@ images/tunnelrhinoss-sheet1.png
 images/toxicseahorsess-sheet0.png
 images/toxicseahorsess-sheet1.png
 images/drdopplerss-sheet0.png
-images/sts_loadgame.png
-images/sts_savegame.png
 images/sts_subbarsavegame-sheet0.png
 images/sts_subcursor-sheet0.png
 images/tiledbackground.png
